@@ -1,20 +1,21 @@
-<svg width="760" height="260" viewBox="0 0 760 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">End-to-End ML Pipeline with MLflow project card</title>
-  <desc id="desc">ML lifecycle with preprocessing, training, MLflow tracking and FastAPI inference.</desc>
-  <defs><linearGradient id="border" x1="0" y1="0" x2="760" y2="260"><stop offset="0%" stop-color="#00D1B2"/><stop offset="100%" stop-color="#38BDF8"><animate attributeName="stop-color" values="#38BDF8;#00D1B2;#8B5CF6;#38BDF8" dur="8s" repeatCount="indefinite"/></stop></linearGradient></defs>
-  <rect x="8" y="8" width="744" height="244" rx="22" fill="#020617" stroke="url(#border)" stroke-width="2"/><rect x="18" y="18" width="724" height="224" rx="18" fill="#0B1220" opacity=".88"/>
-  <rect x="28" y="218" width="704" height="1.2" fill="#00D1B2" opacity=".14"><animate attributeName="y" values="218;40;218" dur="7s" repeatCount="indefinite"/></rect>
-  <g transform="translate(50 72)" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">
-    <path d="M58 38H92M150 38H184M242 38H276" stroke="#38BDF8" stroke-width="3" stroke-linecap="round"/>
-    <circle cx="105" cy="38" r="5" fill="#00D1B2"><animate attributeName="cx" values="58;92;150;184;242;276;58" dur="5s" repeatCount="indefinite"/></circle>
-    <rect x="0" y="10" width="58" height="56" rx="12" fill="#111827" stroke="#00D1B2"/><text x="17" y="42" fill="#CCFBF1">DATA</text>
-    <rect x="92" y="10" width="58" height="56" rx="12" fill="#111827" stroke="#38BDF8"/><text x="105" y="42" fill="#BAE6FD">TRAIN</text>
-    <rect x="184" y="10" width="58" height="56" rx="12" fill="#111827" stroke="#8B5CF6"/><text x="198" y="42" fill="#DDD6FE">EVAL</text>
-    <rect x="276" y="10" width="58" height="56" rx="12" fill="#111827" stroke="#FBBF24"/><text x="293" y="42" fill="#FEF3C7">API</text>
+<svg width="980" height="320" viewBox="0 0 980 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">End-to-End ML Pipeline with MLflow animated MLOps project card</title>
+  <desc id="desc">Training, evaluation, MLflow tracking, FastAPI inference, Docker and GitHub Actions.</desc>
+  <defs><radialGradient id="bg" cx="76%" cy="30%" r="72%"><stop offset="0" stop-color="#12335F"/><stop offset=".46" stop-color="#0B1220"/><stop offset="1" stop-color="#020617"/></radialGradient><linearGradient id="border" x1="0" y1="0" x2="980" y2="320"><stop stop-color="#00D1B2"/><stop offset="1" stop-color="#38BDF8"><animate attributeName="stop-color" values="#38BDF8;#00D1B2;#8B5CF6;#38BDF8" dur="10s" repeatCount="indefinite"/></stop></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#38BDF8" stroke-opacity=".08"/></pattern><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect x="8" y="8" width="964" height="304" rx="28" fill="url(#bg)" stroke="url(#border)" stroke-width="2.5"/><rect x="24" y="24" width="932" height="272" rx="22" fill="url(#grid)" opacity=".9"/><rect x="34" y="278" width="912" height="2" fill="#00D1B2" opacity=".13"><animate attributeName="y" values="278;42;278" dur="8.4s" repeatCount="indefinite"/></rect>
+  <rect x="48" y="48" width="178" height="34" rx="17" fill="#061B2A" stroke="#00D1B2" stroke-opacity=".7"/><text x="66" y="70" fill="#99F6E4" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">MLOps / ML Engineering</text>
+  <rect x="844" y="48" width="82" height="34" rx="17" fill="#052E2B" stroke="#00D1B2" stroke-opacity=".8"/><text x="865" y="70" fill="#99F6E4" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Public</text>
+  <text x="48" y="128" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="41" font-weight="800">End-to-End ML Pipeline with MLflow</text>
+  <text x="50" y="168" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="20">Training, evaluation, MLflow tracking, FastAPI inference, Docker and GitHub Actions.</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700"><rect x="48" y="232" width="78" height="32" rx="16" fill="#111827" stroke="#38BDF8"/><text x="67" y="253" fill="#BAE6FD">Python</text><rect x="136" y="232" width="112" height="32" rx="16" fill="#0F766E"/><text x="156" y="253" fill="#ECFEFF">scikit-learn</text><rect x="258" y="232" width="80" height="32" rx="16" fill="#1E3A8A"/><text x="278" y="253" fill="#DBEAFE">MLflow</text><rect x="348" y="232" width="78" height="32" rx="16" fill="#312E81"/><text x="367" y="253" fill="#E0E7FF">Docker</text></g>
+  <g transform="translate(626 98)" filter="url(#glow)" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="800">
+    <path d="M62 72H110M172 72H220M282 72H330M392 72H438" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 8"><animate attributeName="stroke-dashoffset" values="0;-72" dur="3s" repeatCount="indefinite"/></path>
+    <circle cx="90" cy="72" r="6" fill="#00D1B2"><animate attributeName="cx" values="62;110;172;220;282;330;392;438;62" dur="5.6s" repeatCount="indefinite"/></circle>
+    <rect x="0" y="38" width="62" height="68" rx="14" fill="#111827" stroke="#00D1B2"/><text x="18" y="77" fill="#CCFBF1">DATA</text>
+    <rect x="110" y="38" width="62" height="68" rx="14" fill="#111827" stroke="#38BDF8"/><text x="126" y="77" fill="#BAE6FD">TRAIN</text>
+    <rect x="220" y="38" width="62" height="68" rx="14" fill="#111827" stroke="#8B5CF6"/><text x="236" y="77" fill="#DDD6FE">EVAL</text>
+    <rect x="330" y="38" width="62" height="68" rx="14" fill="#111827" stroke="#00D1B2"/><text x="344" y="77" fill="#99F6E4">REG</text>
+    <rect x="438" y="38" width="62" height="68" rx="14" fill="#111827" stroke="#FBBF24"/><text x="456" y="77" fill="#FEF3C7">API</text>
   </g>
-  <text x="410" y="66" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="700">End-to-End ML Pipeline with MLflow</text>
-  <text x="410" y="94" fill="#00D1B2" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">MLOPS / EXPERIMENT TRACKING / API</text>
-  <rect x="628" y="48" width="76" height="30" rx="15" fill="#052E2B" stroke="#00D1B2"/><text x="649" y="68" fill="#99F6E4" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Public</text>
-  <text x="410" y="132" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">ML lifecycle with preprocessing, training, MLflow tracking,</text><text x="410" y="157" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Docker packaging and FastAPI inference.</text>
-  <g font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700"><rect x="410" y="184" width="66" height="28" rx="14" fill="#111827" stroke="#38BDF8"/><text x="426" y="203" fill="#BAE6FD">Python</text><rect x="486" y="184" width="96" height="28" rx="14" fill="#0F766E"/><text x="502" y="203" fill="#ECFEFF">scikit-learn</text><rect x="592" y="184" width="66" height="28" rx="14" fill="#1E3A8A"/><text x="609" y="203" fill="#DBEAFE">MLflow</text><rect x="668" y="184" width="64" height="28" rx="14" fill="#312E81"/><text x="684" y="203" fill="#E0E7FF">Docker</text></g>
+  <text x="48" y="292" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="13">SYSTEM STATUS: experiment tracking | model comparison | API delivery</text>
 </svg>

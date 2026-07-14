@@ -1,18 +1,21 @@
-<svg width="760" height="260" viewBox="0 0 760 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">AI Agent Observability Dashboard project card</title>
-  <desc id="desc">Monitors agent runs, tool calls, latency, cost, failures and prompt risks.</desc>
-  <defs><linearGradient id="border" x1="0" y1="0" x2="760" y2="260"><stop offset="0%" stop-color="#00D1B2"/><stop offset="100%" stop-color="#38BDF8"><animate attributeName="stop-color" values="#38BDF8;#8B5CF6;#00D1B2;#38BDF8" dur="8s" repeatCount="indefinite"/></stop></linearGradient></defs>
-  <rect x="8" y="8" width="744" height="244" rx="22" fill="#020617" stroke="url(#border)" stroke-width="2"/><rect x="18" y="18" width="724" height="224" rx="18" fill="#0B1220" opacity=".88"/>
-  <rect x="28" y="42" width="704" height="1.2" fill="#00D1B2" opacity=".14"><animate attributeName="y" values="42;218;42" dur="7s" repeatCount="indefinite"/></rect>
-  <g transform="translate(54 60)">
-    <rect width="178" height="104" rx="14" fill="#111827" stroke="#38BDF8"/>
-    <polyline points="14,80 44,58 72,70 103,34 135,46 162,22" fill="none" stroke="#00D1B2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="260"><animate attributeName="stroke-dashoffset" values="260;0;260" dur="6s" repeatCount="indefinite"/></polyline>
-    <circle cx="162" cy="22" r="6" fill="#FBBF24"><animate attributeName="opacity" values=".3;1;.3" dur="1.8s" repeatCount="indefinite"/></circle>
-    <rect x="18" y="15" width="48" height="10" rx="5" fill="#1E3A8A"/><rect x="76" y="15" width="34" height="10" rx="5" fill="#0F766E"/><rect x="120" y="15" width="36" height="10" rx="5" fill="#312E81"/>
+<svg width="980" height="320" viewBox="0 0 980 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AI Agent Observability Dashboard animated monitoring project card</title>
+  <desc id="desc">Tracks agent runs, tool calls, latency, cost, failures, prompt risks and audit logs.</desc>
+  <defs><radialGradient id="bg" cx="76%" cy="30%" r="74%"><stop offset="0" stop-color="#0F3A4A"/><stop offset=".48" stop-color="#0B1220"/><stop offset="1" stop-color="#020617"/></radialGradient><linearGradient id="border" x1="0" y1="0" x2="980" y2="320"><stop stop-color="#00D1B2"/><stop offset="1" stop-color="#38BDF8"><animate attributeName="stop-color" values="#38BDF8;#8B5CF6;#00D1B2;#38BDF8" dur="10s" repeatCount="indefinite"/></stop></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#38BDF8" stroke-opacity=".08"/></pattern></defs>
+  <rect x="8" y="8" width="964" height="304" rx="28" fill="url(#bg)" stroke="url(#border)" stroke-width="2.5"/><rect x="24" y="24" width="932" height="272" rx="22" fill="url(#grid)" opacity=".9"/><rect x="34" y="42" width="912" height="2" fill="#00D1B2" opacity=".13"><animate attributeName="y" values="42;278;42" dur="8s" repeatCount="indefinite"/></rect>
+  <rect x="48" y="48" width="242" height="34" rx="17" fill="#061B2A" stroke="#00D1B2" stroke-opacity=".7"/><text x="66" y="70" fill="#99F6E4" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Agent Monitoring / Observability</text>
+  <rect x="794" y="48" width="132" height="34" rx="17" fill="#121826" stroke="#8B5CF6" stroke-opacity=".75"/><text x="813" y="70" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Private / in progress</text>
+  <text x="48" y="128" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="41" font-weight="800">AI Agent Observability Dashboard</text>
+  <text x="50" y="168" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="20">Tracks agent runs, tool calls, latency, cost, failures, prompt risks and audit logs.</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700"><rect x="48" y="232" width="78" height="32" rx="16" fill="#111827" stroke="#38BDF8"/><text x="67" y="253" fill="#BAE6FD">Python</text><rect x="136" y="232" width="82" height="32" rx="16" fill="#0F766E"/><text x="154" y="253" fill="#ECFEFF">FastAPI</text><rect x="228" y="232" width="76" height="32" rx="16" fill="#1E3A8A"/><text x="247" y="253" fill="#DBEAFE">SQLite</text><rect x="314" y="232" width="106" height="32" rx="16" fill="#312E81"/><text x="334" y="253" fill="#E0E7FF">JavaScript</text></g>
+  <g transform="translate(648 82)">
+    <rect x="0" y="0" width="292" height="194" rx="20" fill="#111827" stroke="#38BDF8"/>
+    <rect x="18" y="20" width="74" height="24" rx="12" fill="#052E2B" stroke="#00D1B2"/><text x="34" y="37" fill="#99F6E4" font-family="Segoe UI, Arial" font-size="11" font-weight="700">RUN OK</text>
+    <rect x="108" y="20" width="74" height="24" rx="12" fill="#0F172A" stroke="#38BDF8"/><text x="124" y="37" fill="#BAE6FD" font-family="Segoe UI, Arial" font-size="11" font-weight="700">42ms</text>
+    <rect x="198" y="20" width="74" height="24" rx="12" fill="#1F1B12" stroke="#FBBF24"/><text x="213" y="37" fill="#FEF3C7" font-family="Segoe UI, Arial" font-size="11" font-weight="700">$0.03</text>
+    <polyline points="24,146 62,118 102,132 142,82 184,96 226,62 268,74" fill="none" stroke="#00D1B2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="340"><animate attributeName="stroke-dashoffset" values="340;0;340" dur="6s" repeatCount="indefinite"/></polyline>
+    <circle cx="142" cy="82" r="6" fill="#FBBF24"><animate attributeName="opacity" values=".35;1;.35" dur="2s" repeatCount="indefinite"/></circle>
+    <g stroke="#38BDF8" stroke-opacity=".45"><line x1="24" y1="168" x2="268" y2="168"/><line x1="24" y1="124" x2="268" y2="124"/><line x1="24" y1="80" x2="268" y2="80"/></g>
   </g>
-  <text x="270" y="66" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">AI Agent Observability Dashboard</text>
-  <text x="270" y="94" fill="#00D1B2" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">TRACES / LATENCY / COST / RISK</text>
-  <rect x="588" y="48" width="116" height="30" rx="15" fill="#111827" stroke="#8B5CF6"/><text x="607" y="68" fill="#C4B5FD" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Private / building</text>
-  <text x="270" y="132" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Monitors agent runs, tool calls, latency, cost, failures</text><text x="270" y="157" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">and risky prompts with audit-ready visibility.</text>
-  <g font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700"><rect x="270" y="184" width="66" height="28" rx="14" fill="#111827" stroke="#38BDF8"/><text x="286" y="203" fill="#BAE6FD">Python</text><rect x="346" y="184" width="72" height="28" rx="14" fill="#0F766E"/><text x="364" y="203" fill="#ECFEFF">FastAPI</text><rect x="428" y="184" width="64" height="28" rx="14" fill="#1E3A8A"/><text x="444" y="203" fill="#DBEAFE">SQLite</text><rect x="502" y="184" width="92" height="28" rx="14" fill="#312E81"/><text x="520" y="203" fill="#E0E7FF">JavaScript</text></g>
+  <text x="48" y="292" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="13">SYSTEM STATUS: trace timeline | cost pulse | audit event stream</text>
 </svg>

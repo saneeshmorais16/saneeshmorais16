@@ -1,19 +1,20 @@
-<svg width="760" height="260" viewBox="0 0 760 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Synthetic Data Generator and Evaluator project card</title>
-  <desc id="desc">Generates synthetic tabular data and evaluates privacy, similarity and ML utility.</desc>
-  <defs><linearGradient id="border" x1="0" y1="0" x2="760" y2="260"><stop offset="0%" stop-color="#38BDF8"/><stop offset="100%" stop-color="#00D1B2"><animate attributeName="stop-color" values="#00D1B2;#8B5CF6;#38BDF8;#00D1B2" dur="9s" repeatCount="indefinite"/></stop></linearGradient></defs>
-  <rect x="8" y="8" width="744" height="244" rx="22" fill="#020617" stroke="url(#border)" stroke-width="2"/><rect x="18" y="18" width="724" height="224" rx="18" fill="#0B1220" opacity=".88"/>
-  <rect x="28" y="40" width="704" height="1.2" fill="#38BDF8" opacity=".14"><animate attributeName="y" values="40;218;40" dur="7s" repeatCount="indefinite"/></rect>
-  <g transform="translate(52 58)">
-    <rect x="0" y="0" width="170" height="106" rx="12" fill="#111827" stroke="#38BDF8"/>
-    <g fill="#0F766E"><rect x="16" y="18" width="40" height="14" rx="4"/><rect x="66" y="18" width="40" height="14" rx="4"/><rect x="116" y="18" width="40" height="14" rx="4"/></g>
-    <g fill="#1E3A8A"><rect x="16" y="44" width="40" height="14" rx="4"><animate attributeName="fill" values="#1E3A8A;#00D1B2;#1E3A8A" dur="3s" repeatCount="indefinite"/></rect><rect x="66" y="44" width="40" height="14" rx="4"/><rect x="116" y="44" width="40" height="14" rx="4"/></g>
-    <g fill="#312E81"><rect x="16" y="70" width="40" height="14" rx="4"/><rect x="66" y="70" width="40" height="14" rx="4"><animate attributeName="fill" values="#312E81;#38BDF8;#312E81" dur="3.4s" repeatCount="indefinite"/></rect><rect x="116" y="70" width="40" height="14" rx="4"/></g>
-    <path d="M196 36L218 44V64C218 82 207 94 196 100C185 94 174 82 174 64V44L196 36Z" fill="#042F2E" stroke="#00D1B2"/>
+<svg width="980" height="320" viewBox="0 0 980 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Synthetic Data Generator and Evaluator animated privacy ML project card</title>
+  <desc id="desc">Generates synthetic data and checks privacy leakage, similarity and ML utility.</desc>
+  <defs><radialGradient id="bg" cx="78%" cy="28%" r="72%"><stop offset="0" stop-color="#0B3B3A"/><stop offset=".48" stop-color="#0B1220"/><stop offset="1" stop-color="#020617"/></radialGradient><linearGradient id="border" x1="0" y1="0" x2="980" y2="320"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#00D1B2"><animate attributeName="stop-color" values="#00D1B2;#8B5CF6;#38BDF8;#00D1B2" dur="10s" repeatCount="indefinite"/></stop></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#38BDF8" stroke-opacity=".08"/></pattern></defs>
+  <rect x="8" y="8" width="964" height="304" rx="28" fill="url(#bg)" stroke="url(#border)" stroke-width="2.5"/><rect x="24" y="24" width="932" height="272" rx="22" fill="url(#grid)" opacity=".9"/><rect x="34" y="278" width="912" height="2" fill="#38BDF8" opacity=".13"><animate attributeName="y" values="278;42;278" dur="8s" repeatCount="indefinite"/></rect>
+  <rect x="48" y="48" width="176" height="34" rx="17" fill="#061B2A" stroke="#00D1B2" stroke-opacity=".7"/><text x="66" y="70" fill="#99F6E4" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Privacy / ML Evaluation</text>
+  <rect x="794" y="48" width="132" height="34" rx="17" fill="#121826" stroke="#8B5CF6" stroke-opacity=".75"/><text x="813" y="70" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Private / in progress</text>
+  <text x="48" y="128" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="800">Synthetic Data Generator and Evaluator</text>
+  <text x="50" y="168" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="20">Generates synthetic data and checks privacy leakage, similarity and ML utility.</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700"><rect x="48" y="232" width="78" height="32" rx="16" fill="#111827" stroke="#38BDF8"/><text x="67" y="253" fill="#BAE6FD">Python</text><rect x="136" y="232" width="78" height="32" rx="16" fill="#0F766E"/><text x="154" y="253" fill="#ECFEFF">pandas</text><rect x="224" y="232" width="112" height="32" rx="16" fill="#1E3A8A"/><text x="244" y="253" fill="#DBEAFE">scikit-learn</text><rect x="346" y="232" width="82" height="32" rx="16" fill="#312E81"/><text x="364" y="253" fill="#E0E7FF">FastAPI</text></g>
+  <g transform="translate(650 80)">
+    <rect x="0" y="0" width="284" height="198" rx="20" fill="#111827" stroke="#38BDF8"/>
+    <g fill="#0F766E"><rect x="24" y="28" width="52" height="18" rx="5"/><rect x="88" y="28" width="52" height="18" rx="5"/><rect x="152" y="28" width="52" height="18" rx="5"/></g>
+    <g fill="#1E3A8A"><rect x="24" y="66" width="52" height="18" rx="5"><animate attributeName="fill" values="#1E3A8A;#00D1B2;#1E3A8A" dur="3.2s" repeatCount="indefinite"/></rect><rect x="88" y="66" width="52" height="18" rx="5"/><rect x="152" y="66" width="52" height="18" rx="5"/></g>
+    <g fill="#312E81"><rect x="24" y="104" width="52" height="18" rx="5"/><rect x="88" y="104" width="52" height="18" rx="5"><animate attributeName="fill" values="#312E81;#38BDF8;#312E81" dur="3.6s" repeatCount="indefinite"/></rect><rect x="152" y="104" width="52" height="18" rx="5"/></g>
+    <path d="M236 54L260 64V96C260 124 248 142 236 152C224 142 212 124 212 96V64L236 54Z" fill="#042F2E" stroke="#00D1B2" stroke-width="2"/>
+    <text x="212" y="180" fill="#99F6E4" font-family="Segoe UI, Arial" font-size="12" font-weight="700">similarity 0.91</text>
   </g>
-  <text x="280" y="66" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="700">Synthetic Data Generator and Evaluator</text>
-  <text x="280" y="94" fill="#38BDF8" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">PRIVACY / SIMILARITY / ML UTILITY</text>
-  <rect x="588" y="48" width="116" height="30" rx="15" fill="#111827" stroke="#8B5CF6"/><text x="607" y="68" fill="#C4B5FD" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Private / building</text>
-  <text x="280" y="132" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Generates synthetic tabular data and evaluates privacy,</text><text x="280" y="157" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">statistical similarity and downstream ML utility.</text>
-  <g font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700"><rect x="280" y="184" width="66" height="28" rx="14" fill="#111827" stroke="#38BDF8"/><text x="296" y="203" fill="#BAE6FD">Python</text><rect x="356" y="184" width="68" height="28" rx="14" fill="#0F766E"/><text x="372" y="203" fill="#ECFEFF">pandas</text><rect x="434" y="184" width="96" height="28" rx="14" fill="#1E3A8A"/><text x="450" y="203" fill="#DBEAFE">scikit-learn</text><rect x="540" y="184" width="72" height="28" rx="14" fill="#312E81"/><text x="558" y="203" fill="#E0E7FF">FastAPI</text></g>
+  <text x="48" y="292" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="13">SYSTEM STATUS: privacy checks | similarity score | ML utility benchmark</text>
 </svg>
