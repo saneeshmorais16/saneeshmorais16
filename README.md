@@ -2,11 +2,11 @@
 
 # Hi, I'm Saneesh Morais
 
-### First Class AI Graduate | AI Engineer | RAG - Agents - MLOps - FastAPI
+### First Class AI Graduate | RAG - AI Agents - MLOps - FastAPI - LLM Evaluation
 
 I build practical AI systems that turn messy workflows, documents and data into useful software.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=00D1B2&center=true&vCenter=true&width=900&lines=Building+AI+agents+and+RAG+systems;Testing+LLMs%2C+not+just+prompting+them;FastAPI+%7C+Python+%7C+MLflow+%7C+Vector+Search;AI+governance%2C+observability+and+automation" alt="AI engineering focus typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=00D1B2&center=true&vCenter=true&width=920&lines=Building+RAG+systems+with+grounded+answers;Designing+AI+agents+with+safety+and+observability;Testing+LLMs%2C+not+just+prompting+them;FastAPI+%7C+Python+%7C+MLflow+%7C+Vector+Search;Open+to+junior+and+graduate+AI+roles" alt="AI engineering focus typing banner" />
 
 <br />
 
@@ -19,16 +19,22 @@ I build practical AI systems that turn messy workflows, documents and data into 
 
 ---
 
+## About Me
+
+I'm Saneesh Morais, a London-based First Class Honours graduate in Computing with Artificial Intelligence Technology. I build practical AI and machine learning systems across RAG, AI agents, LLM evaluation, MLOps, FastAPI backends, automation workflows and data products.
+
+I'm especially interested in building AI systems that are useful, testable and safe - not just demos that look good once.
+
 ## What I Build
 
 | Focus area | What it means in practice |
 | --- | --- |
-| AI agents and workflow automation | Agent workflows with approvals, traceability, tool use and safety checks |
 | RAG and semantic search systems | Document ingestion, chunking, embeddings, retrieval, grounded answers and citations |
+| AI agents and workflow automation | Agent workflows with approvals, traceability, tool use and safety checks |
 | LLM evaluation and hallucination checks | Accuracy, relevance, safety, formatting, regression and groundedness testing |
-| MLOps and ML pipelines | Training, evaluation, experiment tracking, inference APIs and CI |
-| AI governance and observability tools | Risk scoring, audit logs, prompt risk detection, latency, cost and failure monitoring |
-| FastAPI backends and AI products | Practical APIs, dashboards and software around applied AI workflows |
+| MLOps pipelines and model evaluation | Training, evaluation, experiment tracking, inference APIs and CI |
+| AI governance, observability and audit tools | Risk scoring, audit logs, prompt risk detection, latency, cost and failure monitoring |
+| FastAPI backends and practical AI products | Practical APIs, dashboards and software around applied AI workflows |
 
 ## Featured AI Projects
 
@@ -39,9 +45,9 @@ I build practical AI systems that turn messy workflows, documents and data into 
 | LLM Evaluation Harness | Evaluation system for accuracy, hallucination risk, relevance, safety, formatting and regression testing | Python, FastAPI, pytest, SQLite | Private / in progress |
 | Multi-Agent Research Assistant | Agentic research workflow with planning, retrieval, summarisation, critic agent, contradiction checks and citations | Python, FastAPI, vector search, structured outputs | Private / in progress |
 | AI Agent Observability Dashboard | Monitoring platform for agent runs, tool calls, latency, cost, errors, prompt risks and audit logs | Python, FastAPI, SQLite, JavaScript | Private / in progress |
+| Synthetic Data Generator and Evaluator | Synthetic tabular data generator with statistical similarity checks, privacy leakage checks and ML benchmarking | Python, pandas, scikit-learn, FastAPI | Private / in progress |
 | [End-to-End ML Pipeline with MLflow](https://github.com/saneeshmorais16/mlflow-end-to-end-ml-pipeline) | ML lifecycle project with preprocessing, training, evaluation, MLflow tracking, FastAPI inference, Docker and GitHub Actions | Python, scikit-learn, MLflow, FastAPI, Docker | Public |
 | Property-Match / Nestdore | Full-stack AI property matching system using embeddings, vector search and explainable recommendations | Next.js, TypeScript, FastAPI, PostgreSQL, pgvector | Private / in progress |
-| Synthetic Data Generator and Evaluator | Synthetic tabular data generator with statistical similarity checks, privacy leakage checks and ML benchmarking | Python, pandas, scikit-learn, FastAPI | Private / in progress |
 
 ## Tech Stack
 
@@ -49,8 +55,8 @@ I build practical AI systems that turn messy workflows, documents and data into 
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=7DD3FC" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
@@ -69,6 +75,14 @@ I build practical AI systems that turn messy workflows, documents and data into 
   <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
 </p>
 
+## Current Focus
+
+- Building exceptional AI/ML portfolio projects
+- RAG systems with citations and grounded answers
+- AI agent safety, observability and evaluation
+- MLOps pipelines and FastAPI AI products
+- Applying for junior/graduate AI, ML and software engineering roles
+
 ## GitHub Stats
 
 <div align="center">
@@ -77,17 +91,9 @@ I build practical AI systems that turn messy workflows, documents and data into 
 
 </div>
 
-## Current Focus
-
-- Building exceptional AI/ML portfolio projects
-- RAG systems with grounded answers and citations
-- AI agent safety, observability and evaluation
-- MLOps pipelines and FastAPI AI products
-- Applying for junior/graduate AI and software engineering roles
-
 ## Recruiter Note
 
-I'm open to graduate and junior opportunities in AI engineering, software engineering, data/ML, LLM applications and applied AI consulting.
+I'm open to graduate and junior opportunities in AI engineering, software engineering, machine learning, LLM applications and applied AI consulting.
 
 ## Contact
 
@@ -99,6 +105,6 @@ I'm open to graduate and junior opportunities in AI engineering, software engine
 
 <div align="center">
 
-First Class AI graduate building practical AI systems, RAG pipelines, AI agents, ML evaluation tools, FastAPI backends, workflow automation platforms and responsible AI systems.
+First Class AI graduate building RAG systems, AI agents, LLM evaluation tools and FastAPI ML products.
 
 </div>
