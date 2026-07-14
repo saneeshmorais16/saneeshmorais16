@@ -1,0 +1,32 @@
+<svg width="760" height="260" viewBox="0 0 760 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AgentGuard OS project card</title>
+  <desc id="desc">AI agent governance, prompt attack detection, risk scoring and audit trails.</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="760" y2="260">
+      <stop offset="0%" stop-color="#00D1B2"><animate attributeName="stop-color" values="#00D1B2;#38BDF8;#8B5CF6;#00D1B2" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#38BDF8"><animate attributeName="stop-color" values="#38BDF8;#8B5CF6;#00D1B2;#38BDF8" dur="8s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="8" y="8" width="744" height="244" rx="22" fill="#020617" stroke="url(#border)" stroke-width="2"/>
+  <rect x="18" y="18" width="724" height="224" rx="18" fill="#0B1220" opacity=".86"/>
+  <rect x="28" y="40" width="704" height="1.4" fill="#38BDF8" opacity=".15"><animate attributeName="y" values="40;220;40" dur="7s" repeatCount="indefinite"/></rect>
+  <g filter="url(#glow)" transform="translate(54 54)">
+    <path d="M50 0L92 15V54C92 88 72 112 50 124C28 112 8 88 8 54V15L50 0Z" stroke="#00D1B2" stroke-width="4" fill="#042F2E"/>
+    <path d="M32 63L45 76L72 42" stroke="#E5E7EB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="94" cy="24" r="5" fill="#FBBF24"><animate attributeName="r" values="4;8;4" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="12" cy="88" r="4" fill="#38BDF8"><animate attributeName="opacity" values=".35;1;.35" dur="2.1s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="190" y="66" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">AgentGuard OS</text>
+  <text x="190" y="94" fill="#38BDF8" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">AI GOVERNANCE / AGENT SAFETY</text>
+  <rect x="562" y="48" width="142" height="30" rx="15" fill="#111827" stroke="#8B5CF6"/>
+  <text x="580" y="68" fill="#C4B5FD" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Private / in progress</text>
+  <text x="190" y="132" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">AI agent governance, prompt attack detection, risk scoring</text>
+  <text x="190" y="157" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">and audit trails for safer automated workflows.</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">
+    <rect x="190" y="184" width="72" height="28" rx="14" fill="#0F766E"/><text x="208" y="203" fill="#ECFEFF">FastAPI</text>
+    <rect x="272" y="184" width="64" height="28" rx="14" fill="#1E3A8A"/><text x="288" y="203" fill="#DBEAFE">SQLite</text>
+    <rect x="346" y="184" width="66" height="28" rx="14" fill="#111827" stroke="#38BDF8"/><text x="362" y="203" fill="#BAE6FD">Python</text>
+    <rect x="422" y="184" width="92" height="28" rx="14" fill="#312E81"/><text x="440" y="203" fill="#E0E7FF">JavaScript</text>
+  </g>
+</svg>

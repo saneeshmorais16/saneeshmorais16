@@ -1,0 +1,17 @@
+<svg width="760" height="260" viewBox="0 0 760 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Property-Match / Nestdore project card</title>
+  <desc id="desc">AI property matching prototype using embeddings-style matching logic and recommendations.</desc>
+  <defs><linearGradient id="border" x1="0" y1="0" x2="760" y2="260"><stop offset="0%" stop-color="#00D1B2"/><stop offset="100%" stop-color="#8B5CF6"><animate attributeName="stop-color" values="#8B5CF6;#38BDF8;#00D1B2;#8B5CF6" dur="9s" repeatCount="indefinite"/></stop></linearGradient></defs>
+  <rect x="8" y="8" width="744" height="244" rx="22" fill="#020617" stroke="url(#border)" stroke-width="2"/><rect x="18" y="18" width="724" height="224" rx="18" fill="#0B1220" opacity=".88"/>
+  <rect x="28" y="218" width="704" height="1.2" fill="#00D1B2" opacity=".14"><animate attributeName="y" values="218;42;218" dur="7s" repeatCount="indefinite"/></rect>
+  <g transform="translate(54 58)">
+    <rect x="0" y="16" width="74" height="92" rx="12" fill="#111827" stroke="#38BDF8"/><path d="M18 54L37 36L56 54V92H18V54Z" fill="#0F766E"/><rect x="30" y="72" width="14" height="20" fill="#020617"/>
+    <rect x="104" y="0" width="74" height="92" rx="12" fill="#111827" stroke="#00D1B2"/><path d="M122 38L141 20L160 38V76H122V38Z" fill="#1E3A8A"/><rect x="134" y="56" width="14" height="20" fill="#020617"/>
+    <circle cx="218" cy="58" r="9" fill="#00D1B2"><animate attributeName="r" values="7;12;7" dur="2.6s" repeatCount="indefinite"/></circle><circle cx="254" cy="28" r="7" fill="#38BDF8"/><circle cx="260" cy="90" r="7" fill="#8B5CF6"/><path d="M178 46L218 58M227 55L254 28M227 62L260 90" stroke="#38BDF8" opacity=".75"/>
+  </g>
+  <text x="360" y="66" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Property-Match / Nestdore</text>
+  <text x="360" y="94" fill="#00D1B2" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">MATCHING / RECOMMENDATIONS</text>
+  <rect x="628" y="48" width="76" height="30" rx="15" fill="#052E2B" stroke="#00D1B2"/><text x="649" y="68" fill="#99F6E4" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Public</text>
+  <text x="360" y="132" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">AI property matching prototype using embeddings-style</text><text x="360" y="157" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">matching logic and explainable recommendations.</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700"><rect x="360" y="184" width="88" height="28" rx="14" fill="#111827" stroke="#38BDF8"/><text x="377" y="203" fill="#BAE6FD">TypeScript</text><rect x="458" y="184" width="92" height="28" rx="14" fill="#0F766E"/><text x="476" y="203" fill="#ECFEFF">JavaScript</text><rect x="560" y="184" width="56" height="28" rx="14" fill="#1E3A8A"/><text x="576" y="203" fill="#DBEAFE">HTML</text><rect x="626" y="184" width="86" height="28" rx="14" fill="#312E81"/><text x="644" y="203" fill="#E0E7FF">Supabase</text></g>
+</svg>

@@ -42,19 +42,41 @@ My focus is practical AI: systems that are useful, testable, explainable and saf
 
 ---
 
-## Featured AI Projects
+## Featured AI Systems
 
-| Project | What it does | Stack | Status |
-| --- | --- | --- | --- |
-| **AgentGuard OS** | AI agent governance/security platform with prompt attack detection, risk scoring, approval queue, audit lineage, cost guardrails and circuit breaker design. | FastAPI, SQLite, Python, JavaScript | Private / in progress |
-| **RAG Pipeline from Scratch** | End-to-end RAG pipeline with document ingestion, chunking, embeddings, vector search, grounded answers and citations. | Python, ChromaDB, embeddings, FastAPI | Private / in progress |
-| **LLM Evaluation Harness** | Tests LLM outputs for accuracy, hallucination risk, relevance, safety, formatting and regression quality. | Python, FastAPI, pytest, SQLite | Private / in progress |
-| **Multi-Agent Research Assistant** | Agentic research workflow with planning, retrieval, summarisation, critic agent, contradiction checks and cited final answers. | Python, FastAPI, vector search, structured outputs | Private / in progress |
-| **AI Agent Observability Dashboard** | Monitors agent runs, tool calls, latency, cost, failures, risky prompts and audit logs. | Python, FastAPI, SQLite, JavaScript | Private / in progress |
-| **Synthetic Data Generator and Evaluator** | Generates synthetic tabular data, checks privacy leakage, evaluates statistical similarity and benchmarks ML utility. | Python, pandas, scikit-learn, FastAPI | Private / in progress |
-| [**End-to-End ML Pipeline with MLflow**](https://github.com/saneeshmorais16/mlflow-end-to-end-ml-pipeline) | ML lifecycle project covering preprocessing, training, evaluation, MLflow tracking, FastAPI inference, Docker and GitHub Actions. | Python, scikit-learn, MLflow, FastAPI, Docker | Public |
-| [**AI Code Review Tool**](https://github.com/saneeshmorais16/ai-code-review-tool) | AI/software tool that reviews code for bugs, security risks, complexity, maintainability and structured improvement suggestions. | Python, FastAPI, SQLite, structured outputs | Public |
-| [**Property-Match / Nestdore**](https://github.com/saneeshmorais16/Property-Match-Making) | AI property matching prototype using embeddings-style matching logic and explainable recommendations. | TypeScript, JavaScript, HTML, Supabase | Public |
+These are not just tutorial projects - they are designed around the things real AI teams care about: retrieval, evaluation, observability, safety, deployment and practical software engineering.
+
+<div align="center">
+
+<img src="assets/project-agentguard-os.svg" width="100%" alt="AgentGuard OS" />
+<img src="assets/project-rag-pipeline.svg" width="100%" alt="RAG Pipeline from Scratch" />
+
+<br /><br />
+
+<img src="assets/project-llm-evaluation.svg" width="100%" alt="LLM Evaluation Harness" />
+<img src="assets/project-multi-agent-research.svg" width="100%" alt="Multi-Agent Research Assistant" />
+
+<br /><br />
+
+<img src="assets/project-agent-observability.svg" width="100%" alt="AI Agent Observability Dashboard" />
+<img src="assets/project-synthetic-data.svg" width="100%" alt="Synthetic Data Generator and Evaluator" />
+
+<br /><br />
+
+<a href="https://github.com/saneeshmorais16/mlflow-end-to-end-ml-pipeline">
+  <img src="assets/project-mlflow-pipeline.svg" width="100%" alt="End-to-End ML Pipeline with MLflow" />
+</a>
+<a href="https://github.com/saneeshmorais16/ai-code-review-tool">
+  <img src="assets/project-ai-code-review.svg" width="100%" alt="AI Code Review Tool" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/saneeshmorais16/Property-Match-Making">
+  <img src="assets/project-property-match.svg" width="100%" alt="Property-Match / Nestdore" />
+</a>
+
+</div>
 
 ---
 
