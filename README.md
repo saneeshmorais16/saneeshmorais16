@@ -81,6 +81,17 @@ These projects are designed around what real AI teams care about: **retrieval qu
 
 Some repositories are being cleaned and reviewed before being made public. I only make projects public after checking for secrets, private data and misleading claims.
 
+### Verified CV Projects
+
+| Project | Repository | What it demonstrates |
+| --- | --- | --- |
+| MLflow End-to-End ML Pipeline | [GitHub](https://github.com/saneeshmorais16/mlflow-end-to-end-ml-pipeline) | Reproducible preprocessing, baseline comparison, MLflow tracking, FastAPI serving, Docker and input validation. |
+| AI Code Review Tool | [GitHub](https://github.com/saneeshmorais16/ai-code-review-tool) | FastAPI code review API with static checks, secret scanning, structured feedback, environment-based AI integration and offline demo mode. |
+| Responsible AI Governance & Model Risk Assessment | [GitHub](https://github.com/saneeshmorais16/RAI-AuditUK-v1) | Educational model-risk audit with performance, fairness, explainability, robustness checks and a generated Markdown audit report. |
+| Marketing Effectiveness & ROI Analysis | Private repository pending authentication | Synthetic campaign ROI analysis with pandas, SQLite queries, metrics, charts, assumptions and correlation-not-causation limitations. |
+| AI Agent Security & Approval Workflow | Private repository pending authentication | Prompt-attack detection, risk scoring, policy decisions, approval queue behaviour and audit logging for agent actions. |
+| Sprout | Private demo only | Next.js/TypeScript financial education demo with simulated coins, hardcoded Q&A and clearly labelled simulated investing. |
+
 <div align="center">
 
 <img src="assets/project-agentguard-os.svg" width="100%" alt="AgentGuard OS animated AI governance project card" />
