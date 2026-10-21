@@ -17,6 +17,8 @@ I am seeking graduate and junior AI engineering opportunities. My projects focus
 
 These are portfolio and educational projects. Synthetic examples and simulated workflows are labelled in their repositories; they do not establish production performance or regulatory compliance.
 
+[Portfolio verification report](PORTFOLIO_AUDIT.md) — test results, measured synthetic evaluations, and known limitations.
+
 ## Core skills
 
 - **Python and APIs:** FastAPI, data validation, pytest, SQL, and SQLite.
